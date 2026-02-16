@@ -2,6 +2,7 @@
 Projetos desenvolvidos por Péricles Soares para o Bootcamp Excel,
 
 NOTAS: 
+
 PROJETO XBOX: O projeto XBOX não pôde ser finalizado pois as funções necessárias não estão disponíveis
 no Excel Online, como mostram as capturas de tela em sua respectiva pasta. 
 
